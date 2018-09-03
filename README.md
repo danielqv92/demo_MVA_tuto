@@ -1,2 +1,5 @@
-# demo_MVA_tuto
-just a n00b trying to learn git with MVA
+# Demo Project
+
+### with @danielqv92 
+
+Este repositorio es para practicar Github flow de diferentes formas...
